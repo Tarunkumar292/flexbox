@@ -1,4 +1,4 @@
-.flex{
+.flex {
     background-color: gray;
     display: flex;
     flex-wrap: wrap;
@@ -7,7 +7,8 @@
     justify-content: center;
 
 }
-.flex>div{
+
+.flex>div {
     background-color: lightgreen;
     padding: 10px;
     margin: 20px;
@@ -18,4 +19,13 @@
     text-align: center;
     box-sizing: border-box;
 
+}
+
+.flex div a {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.flex div a:hover {
+    color: aqua;
 }
