@@ -1,0 +1,11 @@
+div {
+    display: inline-block;
+}
+.tk,.ch,.rt{
+    background-color: lightgreen;
+    padding: 20px;
+    margin: 30px;
+}
+.rt{
+    margin-top: 10px;
+}
